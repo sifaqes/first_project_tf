@@ -1,0 +1,24 @@
+{
+  "name": "first_project_tf",
+  "version": "1.0.0",
+  "description": "tensorFlow first project with chatGPT",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "start tf"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sifaqes/first_project_tf.git"
+  },
+  "keywords": [
+    "tf",
+    "tensorflow",
+    "javascript"
+  ],
+  "author": "sifaqes zerrouki",
+  "license": "SEE LICENSE IN LICENCE.TXT",
+  "bugs": {
+    "url": "https://github.com/sifaqes/first_project_tf/issues"
+  },
+  "homepage": "https://github.com/sifaqes/first_project_tf#readme"
+}
